@@ -22,7 +22,7 @@ TrollInstallerX supports all iOS/iPadOS devices on firmware versions 14.0 to 15.
 ## Requirements
 
 <div class="custom-container tip" id="ifJailbreaksAppSigned"><p>
-TrollInstallerX is currently signed at <a href="https://jailbreaks.app/" target="_blank">jailbreaks.app</a> for easy installation without a computer.
+TrollInstallerX is not currently signed at <a href="https://jailbreaks.app/" target="_blank">jailbreaks.app</a> for easy installation without a computer.
 </p></div>
 
 - The latest version of [Sideloadly](https://sideloadly.io/)
